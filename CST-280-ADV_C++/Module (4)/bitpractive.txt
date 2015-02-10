@@ -1,0 +1,16 @@
+bit a: 1011 0111
+bit b: 1010 0011
+
+a) A^B (Exclusive or)
+b) A|B (Or)
+c) A&B (And)
+d) A << 2 (Shift A left 2)
+e) B >> 3 (Shift B right 3)
+f) ~A (Inverse(Compliment))
+
+a. 0001 0100
+b. 1011 0111
+c. 1010 0011
+d. 1101 1100
+e. 0001 0100
+f. 0100 1000

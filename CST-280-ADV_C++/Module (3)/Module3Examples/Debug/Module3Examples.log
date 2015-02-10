@@ -1,0 +1,28 @@
+﻿Build started 1/28/2015 7:54:19 AM.
+     1>Project "F:\Delta-Winter-2015\CST-280-ADV_C++\Module (3)\Module3Examples\Module3Examples.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt airportCodeSearch.cpp parallelRec.cpp partMgr.cpp structReturn.cpp studentSummary.cpp
+         studentSummary.cpp
+         structReturn.cpp
+         partMgr.cpp
+         parallelRec.cpp
+         airportCodeSearch.cpp
+     1>f:\delta-winter-2015\cst-280-adv_c++\module (3)\module3examples\airportcodesearch.cpp(17): warning C4005: '_CRT_SECURE_NO_WARNINGS' : macro redefinition
+                 command-line arguments :  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Delta-Winter-2015\CST-280-ADV_C++\Module (3)\Module3Examples\Debug\Module3Examples.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Delta-Winter-2015\CST-280-ADV_C++\Module (3)\Module3Examples\Debug\Module3Examples.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Delta-Winter-2015\CST-280-ADV_C++\Module (3)\Module3Examples\Debug\Module3Examples.lib" /MACHINE:X86 Debug\airportCodeSearch.obj
+         Debug\parallelRec.obj
+         Debug\partMgr.obj
+         Debug\structReturn.obj
+         Debug\studentSummary.obj
+     1>parallelRec.obj : error LNK2005: _main already defined in airportCodeSearch.obj
+     1>partMgr.obj : error LNK2005: _main already defined in airportCodeSearch.obj
+     1>structReturn.obj : error LNK2005: _main already defined in airportCodeSearch.obj
+     1>studentSummary.obj : error LNK2005: _main already defined in airportCodeSearch.obj
+     1>F:\Delta-Winter-2015\CST-280-ADV_C++\Module (3)\Module3Examples\Debug\Module3Examples.exe : fatal error LNK1169: one or more multiply defined symbols found
+     1>Done Building Project "F:\Delta-Winter-2015\CST-280-ADV_C++\Module (3)\Module3Examples\Module3Examples.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:05.81

@@ -1,0 +1,6 @@
+Doe_J        101456 20  6.75
+Johnson_A    100321 45 23.50
+Lincoln_A    101987 39 15.76
+Washington_G 100357 50 18.19
+Fuller_J     100003 40 19.00
+Klingler_S   101285 60 29.95

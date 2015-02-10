@@ -1,0 +1,4 @@
+http://sourceware.org/git/?p=glibc.git;a=blob;f=string/strstr.c;h=ef45f827584526e09c73426c5d63e3197f31a909;hb=master
+
+http://sourceware.org/git/?p=glibc.git;a=blob;f=string/strtok.c;h=9d6bb06779a11d2e6331d3d33ca1fc8518f05be0;hb=master 
+

@@ -4,7 +4,7 @@
 using namespace std; 
 
 #include "sun.h"  
-
+#define _CRT_SECURE_NO_WARNINGS
 // Function prototype 
 void sunriseset (double, double, int, int, int, int&, int&); 
 void adjusttime (int, char, bool, TextTime); 

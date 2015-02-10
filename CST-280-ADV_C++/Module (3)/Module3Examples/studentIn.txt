@@ -1,0 +1,6 @@
+Doe        Jane   101456 3.03 14 34
+Johnson    LB     100321 2.50 12 44
+Lincoln    Abe    101987 3.22 13 29
+Washington George 100357 3.33 15 21
+Fuller     Jen    100003 3.95 17 55
+Bush       George 101765 3.75 16 36

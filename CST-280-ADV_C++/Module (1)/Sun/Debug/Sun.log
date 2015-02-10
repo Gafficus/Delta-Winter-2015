@@ -1,0 +1,20 @@
+﻿Build started 1/26/2015 8:01:15 AM.
+     1>Project "F:\Delta-Winter-2015\CST-280-ADV_C++\Module (1)\Sun\Sun.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\sun.cpp ..\sunDemo.cpp
+         sunDemo.cpp
+     1>f:\delta-winter-2015\cst-280-adv_c++\module (1)\sundemo.cpp(11): warning C4005: '_CRT_SECURE_NO_WARNINGS' : macro redefinition
+                 command-line arguments :  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+         sun.cpp
+     1>f:\delta-winter-2015\cst-280-adv_c++\module (1)\sun.cpp(7): warning C4005: '_CRT_SECURE_NO_WARNINGS' : macro redefinition
+                 command-line arguments :  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Delta-Winter-2015\CST-280-ADV_C++\Module (1)\Sun\Debug\Sun.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Delta-Winter-2015\CST-280-ADV_C++\Module (1)\Sun\Debug\Sun.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Delta-Winter-2015\CST-280-ADV_C++\Module (1)\Sun\Debug\Sun.lib" /MACHINE:X86 Debug\sun.obj
+         Debug\sunDemo.obj
+         Sun.vcxproj -> F:\Delta-Winter-2015\CST-280-ADV_C++\Module (1)\Sun\Debug\Sun.exe
+     1>Done Building Project "F:\Delta-Winter-2015\CST-280-ADV_C++\Module (1)\Sun\Sun.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.19
